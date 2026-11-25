@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChargePulse</string>
+    <string name="widget_name">ChargePulse Live Meter</string>
+    <string name="widget_description">Shows live charging Watts, Amperes, fast charging status, and battery health directly on your home screen.</string>
+    <string name="notification_channel_name">Live Charging Monitor</string>
+    <string name="notification_channel_desc">Displays live wattage, amperage, charging speed, and battery health when connected to power.</string>
+</resources>

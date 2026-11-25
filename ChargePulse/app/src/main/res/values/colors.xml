@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cp_bg_dark">#0B1018</color>
+    <color name="cp_surface_dark">#131B28</color>
+    <color name="cp_fast_emerald">#00E676</color>
+    <color name="cp_super_cyan">#00D2FF</color>
+    <color name="cp_standard_amber">#FFB300</color>
+    <color name="cp_alert_red">#FF5252</color>
+    <color name="cp_text_primary">#F4F7FB</color>
+    <color name="cp_text_secondary">#9FB0C7</color>
+</resources>
